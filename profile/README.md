@@ -21,6 +21,7 @@ Please report issues in the [issue tracker](https://github.com/fedora-silverblue
 - [How to get involved](https://silverblue.fedoraproject.org/contribute)
 - [rpm-ostree manifests used to build Fedora Silverblue](https://pagure.io/workstation-ostree-config)
 - [Source for the documentation](https://github.com/fedora-silverblue/silverblue-docs)
+- [Source for the website](https://github.com/fedora-silverblue/silverblue-site)
 - Project on Fedora Weblate for translations:
   - [Documentation](https://translate.fedoraproject.org/projects/fedora-docs-l10n-fedora-silverblue/)
 
