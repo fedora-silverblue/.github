@@ -6,7 +6,7 @@ See the [Fedora Silverblue website](https://silverblue.fedoraproject.org/).
 
 See the [Fedora Silverblue documentation](https://docs.fedoraproject.org/en-US/fedora-silverblue/).
 
-## Dicussions
+## Discussions
 
 - The [#silverblue:fedoraproject.org on Matrix](https://matrix.to/#/#silverblue:fedoraproject.org) or libera.chat/silverblue on IRC (irc://irc.libera.chat/silverblue) channels. The channels are bridged: joining either one will let you talk to everyone.
 - The [#silverblue tag on ask.fedoraproject.org](https://ask.fedoraproject.org/tag/silverblue).
