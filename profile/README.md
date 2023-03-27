@@ -6,11 +6,11 @@ See the [Fedora Silverblue website](https://silverblue.fedoraproject.org/).
 
 See the [Fedora Silverblue documentation](https://docs.fedoraproject.org/en-US/fedora-silverblue/).
 
-## Discussions
+## Getting help and discussion spaces
 
-- The [#silverblue:fedoraproject.org on Matrix](https://matrix.to/#/#silverblue:fedoraproject.org) or libera.chat/silverblue on IRC (irc://irc.libera.chat/silverblue) channels. The channels are bridged: joining either one will let you talk to everyone.
-- The [#silverblue tag on ask.fedoraproject.org](https://ask.fedoraproject.org/tag/silverblue).
-- The [#silverblue tag on discussion.fedoraproject.org](https://discussion.fedoraproject.org/tag/silverblue).
+- The [#silverblue:fedoraproject.org channel on Matrix](https://matrix.to/#/#silverblue:fedoraproject.org) or libera.chat/silverblue on IRC (irc://irc.libera.chat/silverblue) channels. The channels are bridged: joining either one will let you talk to everyone.
+- Ask questions using the [#silverblue tag on discussion.fedoraproject.org](https://discussion.fedoraproject.org/tag/silverblue).
+- Start development discussions using the [#silverblue-team tag on discussion.fedoraproject.org](https://discussion.fedoraproject.org/tag/silverblue-team).
 
 ## Reporting issues
 
