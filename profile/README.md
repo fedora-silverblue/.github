@@ -1,6 +1,6 @@
 # Fedora Silverblue
 
-See the [Fedora Silverblue website](https://fedoraproject.org/silverblue/).
+See the [Fedora Silverblue website](https://fedoraproject.org/atomic-desktops/silverblue/).
 
 ## Documentation
 
